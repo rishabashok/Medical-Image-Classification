@@ -1,0 +1,9 @@
+﻿chest_xray/
+data/
+dataset/
+*.pth
+*.pt
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.log
